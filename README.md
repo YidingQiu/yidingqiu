@@ -46,8 +46,7 @@
     <p>AI Legal Assistant</p>
     <ul align="left">
       <li>🥈 GovHack 2024 Runner-up | Next.js · RAG · Neo4j</li>
-      <li>Reduced document query time by 40% with hybrid search</li>
-      <li><a href="https://legal-ai-app.vercel.app/">Demo</a> | <a href="https://hackerspace.govhack.org/projects/knowledgecommons">Case Study</a></li>
+      <li><a href="https://legal-ai-app.vercel.app/">Demo</a> | <a href="https://hackerspace.govhack.org/projects/knowledgecommons">Project Info</a></li>
     </ul>
   </div>
 
@@ -55,9 +54,9 @@
     <h3>💡 EEG Blink Detection</h3>
     <p>MATLAB Signal Processing</p>
     <ul align="left">
-      <li>98.8% accuracy · 179+ downloads</li>
+      <li>98.8% accuracy · 180+ downloads</li>
       <li>Real-time processing @ 0.08s/signal</li>
-      <li><a href="https://au.mathworks.com/matlabcentral/fileexchange/120873-eeg_blink">MATLAB Exchange</a></li>
+      <li><a href="https://au.mathworks.com/matlabcentral/fileexchange/120873-eeg_blink">MATLAB Exchange</a> | <a href="https://github.com/Lenskiy/DL_EEG_blink_segmentation">Repo</a></li>
     </ul>
   </div>
 
