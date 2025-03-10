@@ -94,11 +94,11 @@
       <img src="https://img.shields.io/badge/Email-Yiding.Qiu@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook" alt="Email" />
     </a>
     &nbsp;&nbsp;
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="https://www.linkedin.com/in/yiding-qiu/">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="YOUR_CV_URL">
+    <a href="https://drive.google.com/file/d/1YVd0lT-lv5ZkyxvHMvPVMU1IMJ6cGcy2/view?usp=sharing">
       <img src="https://img.shields.io/badge/📄_Download_CV-PDF-important?style=for-the-badge" alt="Resume" />
     </a>
   </div>
