@@ -1,22 +1,24 @@
-<!-- 浮动图标装饰 -->
+<!-- Header Section with Multiple Lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Bill+Qiu;Backend+Architect+%26+Data+Alchemist;Building+Scalable+Systems+with+AI" alt="动态标题" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Bill+Qiu" alt="Introduction" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Architect+%26+Data+Alchemist;Building+Scalable+Systems+with+AI" alt="Role Description" />
 </div>
 
-<!-- 求职横幅 -->
-<div align="center" style="background-color: #1A1F2C; padding: 15px; border-radius: 8px; margin: 20px 0;">
-  <h3 style="color: #58A6FF; margin: 0;">🚀 Actively Seeking Full-time Opportunities</h3>
-  <p style="color: #8B949E;">Backend Development | Data Engineering | AI Systems</p>
+<!-- Job Search Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:58A6FF&height=120&section=header&text=🚀%20Actively%20Seeking%20Full-time%20Opportunities&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Job Banner" width="100%" />
+  <p align="center" style="margin-top:-30px; color:#8B949E;">Backend Development | Data Engineering | AI Systems</p>
 </div>
 
-<!-- 分栏布局 -->
-<table>
+<!-- Main Content in Two Columns -->
+<table border="0">
   <tr>
     <td width="60%" valign="top">
 
 ## 🛠️ Core Competencies
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<div>
 
 **Backend Architecture**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -39,39 +41,33 @@
 
 <details>
 <summary><b>🧠 Knowledge Commons (AI Legal Assistant)</b></summary>
-  
-- 🥈 GovHack 2024 Runner-up | Next.js · RAG · Neo4j
-- Reduced document query time by 40% with hybrid search
-- [Demo](https://legal-ai-app.vercel.app/) | [Case Study](https://hackerspace.govhack.org/projects/knowledgecommons)
+  <ul>
+    <li>🥈 GovHack 2024 Runner-up | Next.js · RAG · Neo4j</li>
+    <li>Reduced document query time by 40% with hybrid search</li>
+    <li><a href="https://legal-ai-app.vercel.app/">Demo</a> | <a href="https://hackerspace.govhack.org/projects/knowledgecommons">Case Study</a></li>
+  </ul>
 </details>
 
 <details>
 <summary><b>💡 EEG Blink Detection (MATLAB)</b></summary>
-  
-- 98.8% accuracy · 179+ downloads
-- Real-time processing @ 0.08s/signal
-- [MATLAB Exchange](https://au.mathworks.com/matlabcentral/fileexchange/120873-eeg_blink)
+  <ul>
+    <li>98.8% accuracy · 179+ downloads</li>
+    <li>Real-time processing @ 0.08s/signal</li>
+    <li><a href="https://au.mathworks.com/matlabcentral/fileexchange/120873-eeg_blink">MATLAB Exchange</a></li>
+  </ul>
 </details>
 
 <details>
 <summary><b>♻️ Leftover to Recipe (AI Sustainability)</b></summary>
-  
-- 🏆 Hackathon Winner | LLM · Computer Vision
-- Reduced food waste by 30% in user trials
-- [Live Demo](https://leftover-to-recipe-8a79b6af365f.herokuapp.com/)
+  <ul>
+    <li>🏆 Hackathon Winner | LLM · Computer Vision</li>
+    <li>Reduced food waste by 30% in user trials</li>
+    <li><a href="https://leftover-to-recipe-8a79b6af365f.herokuapp.com/">Live Demo</a></li>
+  </ul>
 </details>
 
     </td>
     <td width="40%" valign="top">
-
-## 📊 Tech Footprint
-
-<!-- GitHub统计 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YidingQiu&layout=compact&theme=dark&hide_border=true" alt="语言统计" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YidingQiu&theme=dark&hide_border=true" alt="提交记录" />
-</div>
 
 ## 🎯 Career Goals
 
@@ -83,16 +79,24 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  [![Email](https://img.shields.io/badge/Email-Yiding.Qiu@outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:Yiding.Qiu@outlook.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-  [![Resume](https://img.shields.io/badge/📄_Download_CV-PDF-important)](YOUR_CV_URL)
+  <a href="mailto:Yiding.Qiu@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Yiding.Qiu@outlook.com-0078D4?style=flat&logo=microsoft-outlook" alt="Email" />
+  </a>
+  <br/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <br/>
+  <a href="YOUR_CV_URL">
+    <img src="https://img.shields.io/badge/📄_Download_CV-PDF-important" alt="Resume" />
+  </a>
 </div>
 
     </td>
   </tr>
 </table>
 
-<!-- 分隔线 -->
+<!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
