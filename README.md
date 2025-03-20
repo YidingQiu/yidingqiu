@@ -13,28 +13,61 @@
 <!-- Main Content in Single Column -->
 <div align="center">
 
+<!-- Main Content in Single Column -->
+<div align="center">
+
 ## 🛠️ Core Competencies
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <div style="margin: 10px; text-align: center;">
-    <h3>Backend & Architecture</h3>
+    <h3>Backend & Data Engineering</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <h3>Cloud & Infrastructure</h3>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </div>
-  
-  <div style="margin: 10px; text-align: center;">
-    <h3>Tools & Infrastructure</h3>
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge" alt="Microservices" />
+    <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge" alt="CI/CD" />
   </div>
   
   <div style="margin: 10px; text-align: center;">
-    <h3>Design & Development</h3>
+    <h3>Database & Storage</h3>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Hasura-1EB4D4?style=for-the-badge&logo=hasura&logoColor=white" alt="Hasura" />
+    <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+    <img src="https://img.shields.io/badge/Vector_Databases-FF5A5F?style=for-the-badge" alt="Vector Databases" />
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <h3>AI & Machine Learning</h3>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/RAG-Systems-76B900?style=for-the-badge" alt="RAG Systems" />
+    <img src="https://img.shields.io/badge/LLM_Integration-0081CB?style=for-the-badge" alt="LLM Integration" />
+    <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge" alt="Computer Vision" />
+    <img src="https://img.shields.io/badge/Signal_Processing-007ACC?style=for-the-badge" alt="Signal Processing" />
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <h3>Frontend & Full Stack</h3>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </div>
+  
+  <div style="margin: 10px; text-align: center;">
+    <h3>Professional Skills</h3>
     <img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge" alt="System Design" />
-    <img src="https://img.shields.io/badge/Database_Architecture-FF6C37?style=for-the-badge" alt="Database Architecture" />
-    <img src="https://img.shields.io/badge/Infrastructure-3F3F3F?style=for-the-badge" alt="Infrastructure" />
+    <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+    <img src="https://img.shields.io/badge/Teaching-5E5E5E?style=for-the-badge" alt="Teaching" />
+    <img src="https://img.shields.io/badge/Technical_Documentation-212121?style=for-the-badge" alt="Technical Documentation" />
   </div>
 </div>
 
