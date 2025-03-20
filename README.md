@@ -108,7 +108,6 @@
     <ul>
       <li>Building event-driven architectures</li>
       <li>Designing intelligent data pipelines</li>
-      <li>Optimizing distributed systems</li>
       <li>Implementing ML in production</li>
     </ul>
   </div>
