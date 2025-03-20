@@ -1,7 +1,7 @@
 <!-- Header Section with Fixed and Scrolling Text -->
 <div align="center">
   <h1>Hi 👋 I'm Bill Qiu</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Architect+%26+Data+Alchemist;Building+Scalable+Systems+with+AI;Python+%2B+AWS+%2B+ML+Developer;Full-Stack+Problem+Solver" alt="Skills Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Architect+%26+Data+Alchemist;Building+Scalable+Systems+with+AI;Full-Stack+Problem+Solver" alt="Skills Description" />
 </div>
 
 <!-- Job Search Banner -->
