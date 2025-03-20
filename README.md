@@ -13,9 +13,6 @@
 <!-- Main Content in Single Column -->
 <div align="center">
 
-<!-- Main Content in Single Column -->
-<div align="center">
-
 ## 🛠️ Core Competencies
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
