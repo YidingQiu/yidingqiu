@@ -7,7 +7,7 @@
 <!-- Job Search Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:58A6FF&height=120&section=header&text=🚀%20Actively%20Seeking%20Full-time%20Opportunities&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Job Banner" width="100%" />
-  <p align="center" style="margin-top:-30px; font-size:16px; color:#8B949E;">Backend Development | Data Engineering | AI Systems</p>
+  <p align="center" style="margin-top:-30px; font-size:16px; color:#8B949E;">Data Science | Backend Development | AI Systems</p>
 </div>
 
 <!-- Main Content in Single Column -->
