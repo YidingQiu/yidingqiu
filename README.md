@@ -12,7 +12,7 @@
 
 <!-- Main Content in Single Column -->
 <div align="center">
-
+<!--
 ## 🛠️ Core Competencies
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Technical_Documentation-212121?style=for-the-badge" alt="Technical Documentation" />
   </div>
 </div>
-
+-->
 ## 🏆 Highlight Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
