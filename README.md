@@ -101,6 +101,16 @@
       <li><a href="https://leftover-to-recipe-8a79b6af365f.herokuapp.com/">Live Demo</a></li>
     </ul>
   </div>
+
+  <div style="flex: 1; min-width: 300px; max-width: 400px; padding: 15px; background-color: #1A1F2C; border-radius: 8px; margin: 10px;">
+    <h3>📝 Marking Assistant</h3>
+    <p>LLM-Powered Auto Grading Tool</p>
+    <ul align="left">
+      <li>Co-developed with UNSW researchers</li>
+      <li>Tested in university teaching environments</li>
+      <li><a href="https://github.com/YidingQiu/MarkingAssistant">GitHub Repo</a></li>
+    </ul>
+  </div>
 </div>
 
 ## 🎯 Career Goals
