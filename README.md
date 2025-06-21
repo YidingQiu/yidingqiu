@@ -139,7 +139,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://drive.google.com/file/d/1YVd0lT-lv5ZkyxvHMvPVMU1IMJ6cGcy2/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1aEgwc8e_QV-53qVhgdoGRtoD7NJdmFWr/view?usp=sharing">
       <img src="https://img.shields.io/badge/📄_Download_CV-PDF-important?style=for-the-badge" alt="Resume" />
     </a>
   </div>
